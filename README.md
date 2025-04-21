@@ -1,2 +1,2 @@
 # Operating-Systems
-Operating Systems - Jagiellonian University
+Operating Systems 2022 - Jagiellonian University
